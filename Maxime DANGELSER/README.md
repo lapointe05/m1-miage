@@ -1,2 +1,4 @@
 # m1-miage
-TDs+TPs
+J'ai fait l'ensemble des exercices.  
+
+**Maxime Dangelser**
